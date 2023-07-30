@@ -1,0 +1,8 @@
+Method Overloading means 
+
+Same function name but differnt parameters
+
+for eg three functions like
+sum();
+sum(int a)
+sum(int a, int b)
